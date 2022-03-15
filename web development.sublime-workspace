@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"y",
+				"yellowgreen"
+			],
+			[
+				"ye",
+				"greenyellow"
+			],
+			[
+				"car",
+				"coral"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"cr",
+				"cornflowerblue"
+			],
+			[
+				"blue",
+				"royalblue"
+			],
+			[
+				"blu",
+				"dodgerblue"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"sot",
+				"Software"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"li",
+				"lightcoral"
+			],
+			[
+				"te",
+				"chocolate"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ligh",
+				"lightcoral"
+			],
+			[
+				"lo",
+				"yellowgreen"
+			],
+			[
+				"v",
+				"ivory"
+			],
+			[
+				"c",
+				"cornsilk"
+			],
+			[
+				"vio",
+				"darkviolet"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"i",
+				"solid"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"a",
+				"fantasy"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"td",
+				"tbody"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"ir",
+				"first_name_var"
+			],
+			[
+				"con",
+				"contact_val"
+			],
+			[
+				"roo",
+				"room_number"
+			],
+			[
+				"dat",
+				"date_of_birth"
+			],
+			[
+				"da",
+				"date_of_birth"
+			],
+			[
+				"cam",
+				"Campus"
+			],
+			[
+				"fir",
+				"first_name_val"
+			],
+			[
+				"email_",
+				"email_val"
+			],
+			[
+				"las",
+				"last_name_val"
+			],
+			[
+				"first",
+				"first_name_val"
+			],
+			[
+				"room",
+				"room_number_var"
+			],
+			[
+				"dae",
+				"date_of_birth_var"
+			],
+			[
+				"emai",
+				"email_var"
+			],
+			[
+				"cona",
+				"contact"
+			],
+			[
+				"firs",
+				"first_name_val"
+			],
+			[
+				"camp",
+				"campus"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"cont",
+				"contact_val"
+			],
+			[
+				"conta",
+				"contact_val"
+			],
+			[
+				"cot",
+				"contact_val"
+			],
+			[
+				"locat",
+				"location"
+			],
+			[
+				"loca",
+				"Location"
+			],
+			[
+				"P",
+				"product_quantity"
+			],
+			[
+				"p",
+				"product_quantity"
+			],
+			[
+				"Product_",
+				"product_type"
+			],
+			[
+				"pr",
+				"Product"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"me",
+				"Methods"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"s",
+				"square"
+			],
+			[
+				"bla",
+				"blanchedalmond"
+			],
+			[
+				"yell",
+				"yellowgreen"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"floa",
+				"font-display"
+			],
+			[
+				"fore",
+				"forestgreen"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"ree",
+				"forestgreen"
+			],
+			[
+				"gree",
+				"seagreen"
+			],
+			[
+				"radu",
+				"border-radius"
+			],
+			[
+				"width",
+				"border-image-width"
+			],
+			[
+				"wit",
+				"white-space"
+			],
+			[
+				"pg",
+				"jpg"
+			],
+			[
+				"on",
+				"font-style"
+			],
+			[
+				"colo",
+				"lighting-color"
+			],
+			[
+				"st",
+				"font-style"
+			],
+			[
+				"backgroun",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Permute Lines: Shuffle"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Desktop/web development/bootstrap installation/index.html",
+		"/C/Users/HP/Desktop/my Website/bootstrap.css",
+		"/C/Users/HP/Desktop/my Website/index.html",
+		"/C/Users/HP/Desktop/GBwork/PosApp/bs/css/bootstrap.css",
+		"/C/Users/HP/Desktop/GBwork/PosApp/bs/css/bootstrap.min.css",
+		"/C/Users/HP/Desktop/my Website/bootstrap-grid.rtl.min.css.map",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css.map",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css.map",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.css.map",
+		"/C/Users/HP/Downloads/bootstrap-5.1.3-dist (1)/bootstrap-5.1.3-dist/css/bootstrap-grid.css",
+		"/D/Mycourses/The Complete 2020 Web Development Bootcamp/5. Intermediate CSS/12.1 StubCode.html",
+		"/D/Mycourses/The Complete 2020 Web Development Bootcamp/5. Intermediate CSS/11. Learn More About Typography.html",
+		"/C/Users/HP/Desktop/teacher/index.html",
+		"/D/Mycourses/The Complete 2020 Web Development Bootcamp/1. Front-End Web Development/2. Syllabus Download.html",
+		"/C/Users/HP/Desktop/GBwork/PosApp/index.html",
+		"/C/Users/HP/Desktop/GBwork/PosApp/html5.databse.js",
+		"/C/Users/HP/Desktop/Exams/index.html",
+		"/C/Users/HP/Desktop/teacher/html.databse.js",
+		"/C/Users/HP/Desktop/teacher/html5_crud code/html5.databse.js",
+		"/C/Users/HP/Desktop/Exams/html5_crud code_noah/html5.databse.js",
+		"/C/Users/HP/Desktop/index3.html/index3.html",
+		"/C/Users/HP/Desktop/Exams/xxhtml5_crud code_noah/index.html",
+		"/C/Users/HP/Desktop/Exams/html5_crud code_noah/indexcrude.html",
+		"/C/Users/HP/Desktop/Exams/html5_crud code/index.html",
+		"/C/Users/HP/Desktop/Exams/html5.databse.js",
+		"/C/Users/HP/Desktop/Exams/html5_crud code/html5.databse.js",
+		"/C/Users/HP/Desktop/JavaSript Work/index.html",
+		"/C/Users/HP/Desktop/JavaSript Work/js work/index.html",
+		"/C/Users/HP/Desktop/new web/webnew.html",
+		"/C/Users/HP/Desktop/Exams/html5_crud code/indexcrude.html",
+		"/D/indexcrude.html",
+		"/C/Users/HP/Desktop/new web/web new.html",
+		"/C/Users/HP/Desktop/new web/css/web new.css",
+		"/C/Users/HP/AppData/Local/Temp/Rar$EXa11568.2704/html5_crud/index.html",
+		"/D/index.html",
+		"/C/Users/HP/Desktop/js work/homework.html",
+		"/C/Users/HP/Desktop/js work/index.html",
+		"/C/Users/HP/Desktop/JavaScript/index.html",
+		"/C/Users/HP/Desktop/js work/page layout.html",
+		"/D/rose/rosewebwork/rosela/css/web new.css",
+		"/D/rose/rosewebwork/rosela/web new.css",
+		"/C/Users/HP/Desktop/WEBPAGE/index.html",
+		"/D/rose/rosewebwork/new project/index 2 new project.html",
+		"/D/rose/rosewebwork/index (3).html",
+		"/D/rose/rosewebwork/index 2 new project.html",
+		"/D/rose/rosewebwork/rosela/index.html",
+		"/C/Users/HP/Desktop/mugwanya/index 2 new project.html",
+		"/D/rose/rosewebwork/webwork/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web development.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 234.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
